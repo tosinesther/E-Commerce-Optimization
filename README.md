@@ -1,5 +1,6 @@
 # E-Commerce-Optimization
 Description: This analysis aim is to identify potential challenges and opportunities within the e-commerce operations. By analyzing historical data uncover trends, patterns, and insight, the project will offer valuable insights to support informed decisions and foster continuous improvement in the e-commerce operations.
+
 Objective: To obtain a complete insisght and taking notes of areas that boost sales by identifying high performing products, regions and customer segments, enhance customer retention by understanding preferences and reducing churn, also improve operational efficiency by optimizing delivery processes.
 Goal: To optimize sales growth, operational efficiency and improve customer satisfaction by utilizing data-driven strategies and informed decision-making.
 Data Cleaning Summary: Microsoft Excel • Blank Cells: Checked for blank cells using the COUNTBLANK function. No blank cells were found. • Errors: Checked for errors using the ISERROR function. No errors were found.
