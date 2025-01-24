@@ -1,3 +1,6 @@
+![Screenshot 2025-01-22 195309](https://github.com/user-attachments/assets/611a4bb1-8135-400b-be4a-07ee423597f8)
+![Screenshot 2025-01-22 153316](https://github.com/user-attachments/assets/4b09f1d1-6241-4ee9-b24a-abd57d627be1)
+![Screenshot 2025-01-22 153258](https://github.com/user-attachments/assets/41fc36ae-62c6-42b7-9345-4d3a4ae1c31a)
 # E-Commerce-Optimization
 Description: This analysis aim is to identify potential challenges and opportunities within the e-commerce operations. By analyzing historical data uncover trends, patterns, and insight, the project will offer valuable insights to support informed decisions and foster continuous improvement in the e-commerce operations.
 
