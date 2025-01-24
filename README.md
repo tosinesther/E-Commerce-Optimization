@@ -1,6 +1,4 @@
-![Sales Dashboard 3](https://github.com/user-attachments/assets/001dfc19-f536-4a8a-af4f-439762eaf770)
-![Sales Dashboard 2](https://github.com/user-attachments/assets/978eddc3-e332-4ee2-8d8e-8890d557382a)
-![Sales Dashboard 3](https://github.com/user-attachments/assets/410431e5-1ff2-442d-bcca-5215dc97a6f2)
+
 
 # E-Commerce-Optimization
 Description: This analysis aim is to identify potential challenges and opportunities within the e-commerce operations. By analyzing historical data uncover trends, patterns, and insight, the project will offer valuable insights to support informed decisions and foster continuous improvement in the e-commerce operations.
